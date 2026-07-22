@@ -1,2 +1,2 @@
 # CS50P
-My solution for havard CS50 introduction to programming with python
+Solutions and notes for Harvard's CS50P (Introduction to Programming with Python). Includes weekly problem sets, practice exercises, and personal learnings.
