@@ -1,13 +1,15 @@
-x=int(input("enter a number:"))
-y=input("enter a operator:")
-z=int(input("enter another number:"))
+expression = input("Expression: ")
+
+x, y, z = expression.split()
+
+x = float(x)
+z = float(z)
+
 if y == "+":
-    print(f"{x+z:.1f}")
-elif y== "-":
-    print(f"{x-z:.1f}")
-elif y== "*":
-    print(f"{x*z:.1f}")
-elif y== "/":
-    print(f"{x/z:.1f}")
-else:
-    print("invalid operator")
+    print(x + z)
+elif y == "-":
+    print(x - z)
+elif y == "*":
+    print(x * z)
+elif y == "/":
+    print(x / z)
