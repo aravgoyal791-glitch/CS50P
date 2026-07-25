@@ -60,4 +60,4 @@ CS50P/
 
 I am documenting my progress as I complete CS50P. Each week's folder contains my solutions and a brief summary of what I learned.
 
-Thank you for visiting my repository!
+Thank you for visiting my repository! 
