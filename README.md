@@ -19,7 +19,7 @@ This repository contains my solutions, notes, and progress while completing **Ha
 | Week 0 | Functions, Variables | ✅ Completed |
 | Week 1 | Conditionals | ✅ Completed |
 | Week 2 | Loops | ✅ Completed |
-| Week 3 | Exceptions | ⏳ In Progress |
+| Week 3 | Exceptions | ✅ completed|
 | Week 4 | Libraries | ⏳ Pending |
 | Week 5 | Unit Tests | ⏳ Pending |
 | Week 6 | File I/O | ⏳ Pending |
