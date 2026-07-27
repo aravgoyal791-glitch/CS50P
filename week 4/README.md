@@ -104,4 +104,4 @@ $244,612.5608
 
 ## Author
 
-CS50P Week 4 Solutions
+Aarav Goyal
