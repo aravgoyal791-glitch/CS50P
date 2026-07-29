@@ -1,63 +1,101 @@
-# CS50P – Harvard's Introduction to Programming with Python
+# CS50's Introduction to Programming with Python (CS50P)
 
-Welcome to my CS50P repository!
+This repository contains my solutions and projects for **CS50's Introduction to Programming with Python**, offered by Harvard University through edX.
 
-This repository contains my solutions, notes, and progress while completing **Harvard University's CS50P (Introduction to Programming with Python)** course.
+I created this repository to document my learning journey, practice Python programming, and track my progress throughout the course.
 
-## 🎯 Goals
+---
 
-- Complete the CS50P course.
-- Build a strong foundation in Python.
-- Develop problem-solving skills.
-- Prepare for AI, Machine Learning, and Software Engineering.
-- Build a professional GitHub portfolio.
+## Course Information
 
-## 📚 Course Progress
+- **Course:** CS50's Introduction to Programming with Python (CS50P)
+- **Institution:** Harvard University
+- **Language:** Python 3
+- **Instructor:** David J. Malan
 
-| Week | Topics | Status |
-|------|--------|--------|
-| Week 0 | Functions, Variables | ✅ Completed |
-| Week 1 | Conditionals | ✅ Completed |
-| Week 2 | Loops | ✅ Completed |
-| Week 3 | Exceptions | ✅ completed|
-| Week 4 | Libraries | ⏳ Pending |
-| Week 5 | Unit Tests | ⏳ Pending |
-| Week 6 | File I/O | ⏳ Pending |
-| Week 7 | Regular Expressions | ⏳ Pending |
-| Week 8 | Object-Oriented Programming | ⏳ Pending |
-| Final Project | Python Application | ⏳ Pending |
+---
 
-## 📂 Repository Structure
+## Progress
 
-```
-CS50P/
-│
-├── week0/
-├── week1/
-├── week2/
-├── week3/
-├── week4/
-├── week5/
-├── week6/
-├── week7/
-├── week8/
-└── README.md
-```
+- ✅ Week 0 – Functions, Variables
+- ✅ Week 1 – Conditionals
+- ✅ Week 2 – Loops
+- ✅ Week 3 – Exceptions
+- ✅ Week 4 – Libraries
+- ✅ Week 5 – Unit Tests
+- ✅ Week 6 – File I/O
+- ⏳ Week 7 – Regular Expressions
+- ⏳ Week 8 – Object-Oriented Programming
+- ⏳ Week 9 – Et Cetera
+- ⏳ Final Project
 
-## 💻 Skills Learned
+---
 
-- Python Fundamentals
+## Skills Learned
+
+Throughout this course, I have learned:
+
+- Python syntax and fundamentals
+- Variables and data types
 - Functions
-- Variables
 - Conditionals
 - Loops
-- Dictionaries
-- Problem Solving
-- Debugging
-- Git & GitHub
+- Exception handling
+- Modules and libraries
+- Unit testing with `pytest`
+- Reading and writing files
+- Working with CSV files
+- Image processing using Pillow
+- Command-line arguments
+- Writing clean, modular Python code
 
-## 📈 My Learning Journey
+---
 
-I am documenting my progress as I complete CS50P. Each week's folder contains my solutions and a brief summary of what I learned.
+## Repository Structure
 
-Thank you for visiting my repository! 
+```text
+week0/
+week1/
+week2/
+week3/
+week4/
+week5/
+week6/
+```
+
+Each folder contains the solutions and practice programs completed during that week.
+
+---
+
+## Week 6 Projects
+
+- **lines.py** – Counts lines of Python code while ignoring comments and blank lines.
+- **pizza.py** – Displays pizza menu data from a CSV file in a formatted table.
+- **scourgify.py** – Converts names from `"last, first"` format into separate columns in a new CSV file.
+- **shirt.py** – Resizes an image, overlays a shirt image, and saves the final output using Pillow.
+
+---
+
+## Goals
+
+- Complete every week of CS50P
+- Build strong Python programming skills
+- Write clean, readable, and maintainable code
+- Apply Python to real-world projects
+
+---
+
+## Acknowledgments
+
+This repository follows the coursework from **CS50's Introduction to Programming with Python** by **Harvard University**.
+
+Course Website:
+https://cs50.harvard.edu/python/
+
+---
+
+## Author
+
+Aarav Goyal
+
+GitHub: https://github.com/your-username
