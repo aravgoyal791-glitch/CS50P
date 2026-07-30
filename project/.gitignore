@@ -1,0 +1,5 @@
+vault.json
+vault.key
+__pycache__/
+*.pyc
+.pytest_cache/
